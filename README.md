@@ -16,3 +16,6 @@ A brushless (BLDC) sensored motor controller. Intended to drive electric vehicle
 * L6387E gate drivers
 * IRFB7730 MOSFETS
 * open source
+
+## How does it work?
+![flow](docs/flow.png)
